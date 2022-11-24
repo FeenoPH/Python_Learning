@@ -41,4 +41,3 @@ while completed is False:
     if letters_left != "" and guesses_left == 0:
         print("You ran out of guesses. The word was " + orig_word + ". Maybe next time")
         completed = True
-
